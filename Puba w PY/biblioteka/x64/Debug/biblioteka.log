@@ -1,0 +1,3 @@
+﻿  tabela_wynikow.cpp
+C:\Users\Ja\source\repos\c366db48-gr12-repo\Projekt\Puba w PY\biblioteka\tabela_wynikow.h(97,25): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+  biblioteka.vcxproj -> C:\Users\Ja\source\repos\c366db48-gr12-repo\Projekt\Puba w PY\x64\Debug\biblioteka.pyd
